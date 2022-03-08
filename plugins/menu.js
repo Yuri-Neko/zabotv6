@@ -18,6 +18,7 @@ let tags = {
   'tools': 'Tools',
   'fun': 'Fun',
   'quran': 'Islam',
+  'nsfwoff' : 'Nsfw Menu',
   'owner': 'Owner',
   'advanced': 'Advanced',
   'info': 'Info'
